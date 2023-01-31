@@ -3,7 +3,7 @@
 Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure
 
 * 🌍  I'm based in Sacramento, CA
-* ✉️  You can contact me at [Alex745i@gmail.com](mailto:Alex745i@gmail.com)
+* ✉️  You can contact me at [Alex745i@gmail.com](mailto:alex745i@gmail.com)
 
 <h2>Skills</h2>
 
