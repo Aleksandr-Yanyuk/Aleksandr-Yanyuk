@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Aleksandr Yanyuk</h1>
-<h2>Software Engineer</h2>
+<h2>Software Engineer/Full Stack Developer C# .NET</h2>
 Full-Stack experience using .NET Framework 4.6.2, ASP.NET Core 3.1+ MVC, C#, Angular 8+, TypeScript, Microsoft SQL Server, Entity Framework, JavaScript, Microsoft Azure
 
 * 🌍  I'm based in Sacramento, CA
